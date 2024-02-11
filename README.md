@@ -65,10 +65,3 @@ Crea una base de datos para Zabbix:
 ```
 
 Recuerda reemplazar `tu_contraseña` con la contraseña deseada para la base de datos. ¡Buena suerte con tu instalación de Zabbix! 🚀
-
-Origen: Conversación con Bing, 11/2/2024
-(1) How to convert bash shell script to Markdown?. https://unix.stackexchange.com/questions/185657/how-to-convert-bash-shell-script-to-markdown.
-(2) 4 Markdown tools for the Linux command line | Opensource.com. https://opensource.com/article/20/3/markdown-apps-linux-command-line.
-(3) unix - Create text file and fill it using bash - Stack Overflow. https://stackoverflow.com/questions/4662938/create-text-file-and-fill-it-using-bash.
-(4) Creating a command which creates a markdown list with (merged) changes .... https://dev.to/netsi1964/creating-a-command-which-creates-a-markdown-list-with-merged-changes-for-a-git-branch-4ahe.
-(5) How to highlight bash/shell commands in markdown?. https://stackoverflow.com/questions/20303826/how-to-highlight-bash-shell-commands-in-markdown.
