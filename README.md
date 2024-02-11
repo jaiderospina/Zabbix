@@ -1,4 +1,4 @@
-##Instalación de Zabbix 6.4 en CentOS 9
+Instalación de Zabbix 6.4 en CentOS 9
 
 ```markdown
 # Instalación de Zabbix 6.4 en CentOS 9
@@ -61,7 +61,7 @@ Crea una base de datos para Zabbix:
    # systemctl enable zabbix-server zabbix-agent httpd
    ```
 
-¡Listo! Ahora deberías tener **Zabbix 6.4** instalado y funcionando en tu máquina CentOS 9. Puedes acceder al frontend de Zabbix a través de tu navegador web utilizando la dirección IP de la máquina y el puerto 80 o 443. Si necesitas más ayuda, no dudes en preguntar.
+Ahora deberías tener **Zabbix 6.4** instalado y funcionando en tu máquina CentOS 9. Puedes acceder al frontend de Zabbix a través de tu navegador web utilizando la dirección IP de la máquina y el puerto 80 o 443.
 ```
 
 Recuerda reemplazar `tu_contraseña` con la contraseña deseada para la base de datos. ¡Buena suerte con tu instalación de Zabbix! 🚀
