@@ -1,4 +1,4 @@
-Por supuesto, aquí tienes el contenido en formato **Markdown** para publicar en GitHub:
+##Instalación de Zabbix 6.4 en CentOS 9
 
 ```markdown
 # Instalación de Zabbix 6.4 en CentOS 9
@@ -32,12 +32,12 @@ Este tutorial describe cómo instalar **Zabbix 6.4** en una máquina **CentOS 9*
      ```
      # dnf install mariadb-server
      ```
-   - Reinicia la base de datos y establece una contraseña para el usuario `root`:
+Reinicia la base de datos y establece una contraseña para el usuario `root`:
      ```
      # systemctl start mariadb
      # mysql_secure_installation
      ```
-   - Crea una base de datos para Zabbix:
+Crea una base de datos para Zabbix:
      ```
      # mysql -u root -p
      > CREATE DATABASE zabbix CHARACTER SET utf8 COLLATE utf8_bin;
