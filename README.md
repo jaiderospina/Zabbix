@@ -1,8 +1,6 @@
 Instalación de Zabbix 6.4 en CentOS 9
 
 ```markdown
-# Instalación de Zabbix 6.4 en CentOS 9
-
 Este tutorial describe cómo instalar **Zabbix 6.4** en una máquina **CentOS 9** desde cero.
 
 ## Pasos de instalación:
